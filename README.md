@@ -51,6 +51,9 @@ Source: https://www.gapminder.org/data/geo/
 * A strong positive correlation between co2 emissions and gni per capita in developed countries was observed.
 * African countries with low gni per capita seem to emit more carbon.
 
+**Medium Blogpost** 
+[Socio-economic Analysis of Development, An Exploration of Trends](https://medium.com/@Haffiz_Anoze/socio-economic-analysis-of-development-an-exploration-of-trends-20f59b5a2451)
+
 **Credits** 
 * Udacity
 * Access bank 
